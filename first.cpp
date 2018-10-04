@@ -4,4 +4,6 @@ tova e moqta parva programa*/
 using namespace std;
 int main ()
 {
+  cout<<"zdr ananas";
+  return 0;
 }
